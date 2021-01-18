@@ -9,3 +9,10 @@ template <Type T>
         aX=bX;
         bX=Temp;
     };
+
+
+
+    int main()
+    {
+        std::cout << "Hello World!";
+    }

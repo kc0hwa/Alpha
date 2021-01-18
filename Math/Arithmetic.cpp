@@ -27,3 +27,7 @@ T Product(T aX,T bX){
 };
 
 
+int main()
+{
+    std::cout << "Hello World!";
+}
