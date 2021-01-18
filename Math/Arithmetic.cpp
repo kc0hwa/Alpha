@@ -6,5 +6,10 @@ sum=aX+bX;
 
 };
 
+T Product(T aX,T bX){
+    Product=aX*bX;
+};
+
+
 
 };
