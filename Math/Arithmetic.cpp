@@ -2,9 +2,15 @@
 #define   iostream.h
 #include <iostream.h>
 #endif
+template <Type T>
+class Math {
+public:
+    Arithmetic Arith;
 
 
-template <type T>
+};
+
+template <Type T>
 class Arithmetic {
 public:
 T sum(T aX,bX){
@@ -19,3 +25,5 @@ T Product(T aX,T bX){
 
 
 };
+
+
