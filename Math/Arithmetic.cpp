@@ -1,3 +1,6 @@
+#include <iostream>
+
+
 template <type T>
 class Arithmetic {
 public:
