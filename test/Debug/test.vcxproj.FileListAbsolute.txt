@@ -1,0 +1,4 @@
+C:\Users\kc0hw\source\repos\kc0hwa\Alpha\test\Debug\test.exe
+C:\Users\kc0hw\source\repos\kc0hwa\Alpha\test\Debug\test.pdb
+C:\Users\kc0hw\source\repos\kc0hwa\Alpha\test\Debug\test.exe.lastcodeanalysissucceeded
+C:\Users\kc0hw\source\repos\kc0hwa\Alpha\test\Debug\NativeCodeAnalysis.read.1.tlog
