@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Functions",
+    "\\Math",
+    "\\Memory"
   ],
+  "SelectedNode": "\\Memory\\mem.cpp",
   "PreviewInSolutionExplorer": false
 }
